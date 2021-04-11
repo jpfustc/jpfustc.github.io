@@ -9,5 +9,5 @@ I'm love board games (e.g. [terra mystica tornament](tmtour.org)), finger style 
 ### About This Website
 It is currently maintained as a markdown based static repository of my notes on tech/entertaining readings, daily life, etc. Hope you enjoy it.
 
-(Novels)[./novels/index.md]
+[Novels](./novels/index.md)
 
