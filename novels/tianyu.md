@@ -1,6 +1,7 @@
 # 天浴
 
 * 短篇小说，讲述下乡女性知青文秀的遭遇。包含性描写。
+* 原著约8500字，本文约4000字，对比读完需要约20分钟。
 * （本篇是同名短篇小说集的第一篇，也是最精彩的一篇）
 * [在线付费](http://www.duokan.com/book/1567)/[免费](https://www.99csw.com/book/9260/330264.htm)
 * [京东](https://item.jd.com/51591395313.html)/[二手](https://www.duozhuayu.com/search/%E5%A4%A9%E6%B5%B4)
