@@ -14,5 +14,5 @@ I've been diagonized of Iga nephropathy for 10 years and glaucoma for 7 years. I
 It is currently maintained as a markdown based static repository of my notes on tech/entertaining readings, daily life, etc. Hope you enjoy it.
 
 [Novels](./novels/index.md)  
-[Theatre](./theatre/theatre.md)  
+[Theatre](./theatre/index.md)  
 [Iga Nephropathy](./igan/igan.md)
