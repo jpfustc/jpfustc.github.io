@@ -1,7 +1,7 @@
 # 江鹏飞，JIANG, PENGFEI
 pengfei.jiang2018@gmail.com
 
-<img src="./img/zhaopian.jpg", alt="zhaopian", width="400">
+![me](./img/me.jpg)
 
 ### About Me
 Hi guys. I'm a 26-year old millimeter-wave radar algorithm engineer at [Calterah Semiconductor](https://www.calterah.com). My job mainly combines digital signal processing, data analysis/feature extraction, as well as application layer programming on a high level. I'm also interested in neat coding as well as project management skills, which is exactly what I lack of.
@@ -13,6 +13,6 @@ I've been diagonized of Iga nephropathy for 10 years and glaucoma for 7 years. I
 ### About This Website
 It is currently maintained as a markdown based static repository of my notes on tech/entertaining readings, daily life, etc. Hope you enjoy it.
 
-[Novels](./novels/index.md)
-[Theatre](./novdle/theatre.md)
+[Novels](./novels/index.md)  
+[Theatre](./novdle/theatre.md)  
 [Iga Nephropathy](./igan/igan.md)
