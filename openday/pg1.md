@@ -6,13 +6,14 @@
 
 To get this:
 
-![curve](./img/calterah_vitaldemo.png){: width="500"}
+![curve](../img/calterah_vitaldemo.png){: width="500"}
 
 From this:
 
-![curve](./img/calterah_vitalraw.png){: width="500"}
+![curve](../img/calterah_vitalraw.png){: width="500"}
 
 And more:
+
     * Theoretical deduction and validation
     * Signal processing/data analysis
     * Minimized memory consumption
