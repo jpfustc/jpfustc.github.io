@@ -8,6 +8,8 @@ To get this:
 
 {% gif ../img/calterah_vitaldemo.png %}
 
+![demo](../img/calterah_vitaldemo.gif){: width="500"}
+
 From this:
 
 ![curve](../img/calterah_vitalraw.png){: width="500"}
