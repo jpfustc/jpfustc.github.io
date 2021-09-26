@@ -1,0 +1,23 @@
+## Work for Fun @ Calterah Semiconductor
+
+`pengfei.jiang@calterah.com`
+
+* A recent project: human vital signal with mmwave radar
+
+To get this:
+
+![curve](./img/calterah_vitaldemo.png){: width="500"}
+
+From this:
+
+![curve](./img/calterah_vitalraw.png){: width="500"}
+
+And more:
+    * Theoretical deduction and validation
+    * Signal processing/data analysis
+    * Minimized memory consumption
+    * Neat coding: transparency, easy maintainence, clear documentation
+
+[pre](./pg0.md)
+
+[next](./pg2.md)
