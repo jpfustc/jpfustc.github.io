@@ -6,8 +6,6 @@
 
     * to get this:
 
-{% gif ../img/calterah_vitaldemo.png %}
-
 ![demo](../img/calterah_vitaldemo.gif){: width="500"}
 
     * from this:
