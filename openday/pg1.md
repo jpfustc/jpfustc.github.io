@@ -4,11 +4,11 @@
 
 * A recent project: human vital signal with mmwave radar
 
-    - to get this:
+to get this:
 
 ![demo](../img/calterah_vitaldemo.gif){: width="500"}
 
-    - from this:
+from this:
 
 ![curve](../img/calterah_vitalraw.png){: width="500"}
 
