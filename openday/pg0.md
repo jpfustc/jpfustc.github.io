@@ -2,15 +2,15 @@
 
 `pengfei.jiang@calterah.com`
 
-* Radar algorithm engineer since Mar. 2021
+### About me
+
+* Radar Algorithm Engineer at Calterah since Mar. 2021
+
+* Innovative radar solution development
 
 * USTC/GaTech
 
-    * Single frequency Doppler LiDAR
-    * High power fiber laser
-    * Close range mmwave imaging
-    * Radar application development
-
+* (LiDAR/Higher power fiber laser/Close range imaging)
 
 
 [pre](./index.md)

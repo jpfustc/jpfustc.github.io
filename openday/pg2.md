@@ -2,10 +2,13 @@
 
 `pengfei.jiang@calterah.com`
 
-* Curiosity, Creativity, Crave for knowledge
+### Why Calterah
+
+* Curiosity, creativity, crave for knowledge
+* Tence interaction with competitive colleagues
+* Full pipeline experience
 * Sustainable personal development
-* Interaction and cooperation with teammates
-* Make things work!
+* Make things work from scratch
 
 [pre](./pg1.md)
 

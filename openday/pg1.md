@@ -2,22 +2,25 @@
 
 `pengfei.jiang@calterah.com`
 
+### What I do here
+
 * A recent project: human vital signal with mmwave radar
 
-to get this:
-
-![demo](../img/calterah_vitaldemo.gif){: width="500"}
-
-from this:
+from here:
 
 ![curve](../img/calterah_vitalraw.png){: width="500"}
 
+to here:
+
+![demo](../img/calterah_vitaldemo.gif){: width="500"}
+
+
 * And more:
 
-    * Theoretical deduction and validation
-    * Signal processing/data analysis
-    * Minimized memory consumption
-    * Neat coding: transparency, easy maintainence, clear documentation
+    * Modeling and validation
+    * Experiment design and data analysis
+    * Neat coding/memory planning
+    * etc.
 
 [pre](./pg0.md)
 
