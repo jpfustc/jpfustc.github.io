@@ -4,17 +4,17 @@
 
 * A recent project: human vital signal with mmwave radar
 
-To get this:
+    * to get this:
 
 {% gif ../img/calterah_vitaldemo.png %}
 
 ![demo](../img/calterah_vitaldemo.gif){: width="500"}
 
-From this:
+    * from this:
 
 ![curve](../img/calterah_vitalraw.png){: width="500"}
 
-And more:
+* And more:
 
     * Theoretical deduction and validation
     * Signal processing/data analysis
