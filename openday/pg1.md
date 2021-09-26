@@ -6,7 +6,7 @@
 
 To get this:
 
-![curve](../img/calterah_vitaldemo.png){: width="500"}
+{% gif ../img/calterah_vitaldemo.png %}
 
 From this:
 
