@@ -16,4 +16,4 @@ It is currently maintained as a markdown based static repository of my notes on 
 [Reading and reviews](./reading/index.md)  
 [Theatre](./theatre/index.md)  
 [Iga Nephropathy](./igan/igan.md)  
-[(Temp)Calterah open day](./openday/index.md)  
+[Professional](./professional/index.md)  
