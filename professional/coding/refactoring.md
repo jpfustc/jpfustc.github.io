@@ -1,6 +1,6 @@
 # Refactor, by Martin Fowler
 
-A book on principles and techniques on improve the style of your code without changing its functionality. I once read somewhere a comment on this book: you either know it or you don't. If you're a decent coder it should be in your instinct how to refactor your code. And if you need to read a book for how to do it, coding is probably not the right business for you.
+A book on principles and techniques to improve the style of your code without changing its functionality. I once read somewhere a comment on this book: you either know it or you don't. If you're a decent coder it should be in your instinct how to refactor your code. And if you need to read a book for how to do it, coding is probably not the right business for you.
 
 I'm still reading this book though, for two purposes. One is to make sure that I'm noting missing anything obvious. The other is to find better ways to articulate these ideas to my teammates, who's backgrounds are mainly in math and signal processing rather than solid CS or software engineering.
 
@@ -67,3 +67,12 @@ The first one tenth of the book gives an examplary refactoring on a small piece 
 * The book mentioned the language of SmallTalk and some of its early developers as tracable origin of refactoring ideas. Interestingly, GoF design pattern also mentioned SmallTalk alot. It must be interesting to see how this lauguage flourished and decayed.
 * Refactoring Workbook by Bill Wake: practices
 * Refactoring to Patterns, by Josh Kerievsky, shows how to use refactoring to evolve towards most valuable patterns in GoF book. (双厨狂喜?)
+
+## Code Smells
+
+* This is the part where you can trust your instinct without getting too far off.
+* **TODO blank notes for now. Take notes when something interesting is encountered.**
+
+## Building Test
+
+* When you report a bug, start by writing a test to expose that bug. *My comment: 1. steady recurrence of the bug. 2. test is also a great part of documentation. 3. Test driven my work on top of 2. *
