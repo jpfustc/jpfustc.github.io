@@ -22,3 +22,5 @@ It is currently maintained as a markdown based static repository of my notes on 
 [Theatre](./theatre/index.md)  
 [Iga Nephropathy](./igan/igan.md)  
 [Professional](./professional/index.md)  
+[Investment](./investment/index.md)
+
