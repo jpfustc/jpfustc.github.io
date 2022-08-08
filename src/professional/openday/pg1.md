@@ -8,11 +8,11 @@
 
 from here:
 
-![curve](../img/calterah_vitalraw.png){: width="500"}
+![curve](../../img/calterah_vitalraw.png){: width="500"}
 
 to here:
 
-![demo](../img/calterah_vitaldemo.gif){: width="500"}
+![demo](../../img/calterah_vitaldemo.gif){: width="500"}
 
 
 * And more:
