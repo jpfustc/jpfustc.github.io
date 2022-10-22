@@ -33,3 +33,6 @@
 
 * 第六章: "In 2001, the historian Roger Ekirch published a remarkable study that drew upon hundreds of diaries and instrucitonal manuals to convincingly argue that humans had historically divided their long nights into two distinct sleep periods. When darkness fell, they would drift into 'first sleep', waking after four hours to snack, relieve themselves, have sex, or chat by the fire, before heading back for another four hours of 'second sleep'".
 
+## 后记
+
+在B站上看到一个Stuart Kauffman在science and nonduality conference的演讲. [这个机构](https://www.scienceandnonduality.com/)看上去像是一个Hipster repilca一般的现代灵修邪教组织, 整个网站上找不到什么跟science有关的内容. 到处都是主观得不能再主观的无法理解和沟通的内容. 其中一位'board member'写的书名比轻小说还长: "The End of Self-Help: Discovering Peace and Happiness Right at the Heart of Your Messy, Scary, Brilliant Life". 配合这篇[灵性剩女的七种武器](https://mp.weixin.qq.com/s/KNb8-CbUPr-v5K7TQllDsg)食用风味更佳.
